@@ -1,4 +1,4 @@
-# Project Name
+# Prediction of demand for shared bikes
 > Build a multiple linear regression model for the prediction of demand for shared bikes
 
 
